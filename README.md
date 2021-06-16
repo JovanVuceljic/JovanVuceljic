@@ -2,4 +2,4 @@
 - 👀 I’m interested in web mobile UX/UI development 
 - 🌱 I’m currently learning React.js Vue.js
 - 💞️ I’m looking to collaborate on 
-- 📫 Reach me via email jovanvuceljic@gmail.com or linkedin.com/in/jovan-vuceljic 
+- 📫 Reach me via email jovanvuceljic@gmail.com or https://linkedin.com/in/jovan-vuceljic 
