@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jovan Vučeljić
-- 👀 I’m interested in web mobile UX/UI development 
-- 🌱 I’m currently learning React.js Vue.js
-- 💞️ I’m looking to collaborate on 
+- 👀 Interested in web & mobile UX/UI development 
+- 🌱 Currently learning Node.js, React.js, Vue.js, ...
+- 💞️ Open source software fun
 - 📫 Reach me via email jovanvuceljic@gmail.com or https://linkedin.com/in/jovan-vuceljic 
