@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jovan Vučeljić
-- 👀 Interested in web & mobile UX/UI development 
-- 🌱 Currently learning Node.js, React.js, Vue.js, ...
-- 💞️ Open source software fun
+- 👀 Interested in web & mobile development 
+- 🌱 Currently learning Node, React and Native...
+- 💞️ Open source software fan
 - 📫 Reach me via email jovanvuceljic@gmail.com or https://linkedin.com/in/jovan-vuceljic 
