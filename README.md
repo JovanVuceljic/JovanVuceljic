@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jovan Vučeljić
 - 👀 Interested in web & mobile development 
-- 🌱 Currently learning Node, React and Native...
-- 💞️ FOSS
+- 🌱 Currently learning Node, TypeScript, React, GraphQL, ReactQuery..
+- 💞️ In love with FOSS
 - 📫 Reach me via email jovanvuceljic@gmail.com or https://linkedin.com/in/jovan-vuceljic 
