@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jovan Vučeljić
-- 👀 Interested in web & mobile development 
-- 🌱 Currently learning Node, TypeScript, React, GraphQL, ReactQuery..
-- 💞️ In love with FOSS
+- 👀 Interested in Linux, Web, FOSS technologies 
+- 🌱 Tech stack Node, Next.js, React, Vue, TypeScript, GraphQL, ReactQuery..
 - 📫 Reach me via email jovanvuceljic@gmail.com or https://linkedin.com/in/jovan-vuceljic 
