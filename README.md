@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Jovan Vučeljić
-- 👀 Interested in Linux, Web, FOSS technologies 
-- 🌱 Tech stack Node, Next.js, React, Vue, TypeScript, GraphQL, ReactQuery..
-- 📫 Reach me via email jovanvuceljic@gmail.com or https://linkedin.com/in/jovan-vuceljic 
+- 👀 Interested in Web, IOT, 3D Printing and general FOSS technologies 
+- 🌱 Tech stack: TypeScript, Node.js, Next.js, Vite.js, React,js, Vue.js, GraphQL, Redux, ReactQuery,..
+- 🚴‍♂️ Hobbies: cycling, hiking, camping,..
+- 📫 Reach me via [Linkedin](https://linkedin.com/in/jovan-vuceljic) or [email](mailto:jovanvuceljic@gmail.com)
